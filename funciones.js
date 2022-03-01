@@ -1,3 +1,12 @@
+/*funcion basica(jomar)
+function sumar(num1,num2,num3){
+    return num1+num2+num3
+}
+console.log (sumar(5,4,7))
+*/
+
+
+
 function iniciar(){
     console.log("Estoy iniciando el programa")
 
